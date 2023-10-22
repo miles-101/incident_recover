@@ -1,5 +1,5 @@
 
-PROJECT_DIR="/Users/miles/Desktop/project/incident"
+PROJECT_DIR="/"
 
 
 NPM_EXECUTABLE="docker"
